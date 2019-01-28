@@ -1,25 +1,7 @@
-# README
+# 課題：ニュースページのスクレイピング
+- gem mechanizeを使用したスクレイピング機能の実装
+- ニュースのタイトル、要約、掲載日時を取得
+- JSON形式で出力
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# test_scraping
+## 作業時間
+1h30m
